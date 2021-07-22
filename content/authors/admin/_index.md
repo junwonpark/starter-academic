@@ -1,7 +1,7 @@
 ---
 title: Jun Won Park
 role: Postdoctoral Research Associate
-avatar_filename: park_jun-won_photo.jpeg
+avatar_filename: park_jun-won_photo.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
