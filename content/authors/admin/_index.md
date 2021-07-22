@@ -2,8 +2,7 @@
 title: Jun Won Park
 role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Social Class
   - Inequality
@@ -43,6 +42,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Postdoctoral Research Associate at Princeton's School of Public and International Affairs and Department of Psychology, having completed my PhD in Organizational Behavior at the Yale School of Management. While at Yale, I was a member of the [Contending with Societal Inequality Lab](https://www.csinequality.com/) under the mentorship of [Michael W. Kraus](http://www.michaelwkraus.com/) and [Cydney H. Dupree](https://cydneydupree.com/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research examines the individual and structural dynamics that undergird the relationship between social positions and social inequality in the context of economic, gender, and racial inequality. I examine how people challenge or reinforce societal inequities while occupying different social positions.
+
+Supporting undocumented queer people of color.
+
+CUSPP (put the blog and recording)
