@@ -1,6 +1,7 @@
 ---
 title: Jun Won Park
 role: Postdoctoral Research Associate
+avatar_filename: park_jun-won_photo.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -31,7 +32,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: jwpark@princeton.edu
+email: ""
 superuser: true
 highlight_name: false
 ---
