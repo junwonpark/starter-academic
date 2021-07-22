@@ -5,38 +5,35 @@ avatar_filename: park_jun-won_photo.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social Class
+  - Inequality
+  - Collective Action
 social:
-  - icon: envelope
+  - display:
+      header: false
+    link: "mailto: jwpark@princeton.edu"
     icon_pack: fas
-    link: /#jwpark@princeton.edu
+    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JWL_Park
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6tseLqsAAAAJ&hl=en
-  - display:
-      header: false
-    link: jwpark@princeton.edu
-    icon_pack: fas
-    icon: envelope
 organizations:
   - name: School of Public and International Affairs, Princeton University
     url: https://spia.princeton.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Organizational Behavior
+      institution: Yale University
+      year: 2021
+    - course: MA / M.Phil in Organizational Behavior
+      institution: Yale University
+      year: 2019
+    - course: BA in Psychology
+      institution: Pomona College
+      year: 2016
 email: ""
 superuser: true
 highlight_name: false
