@@ -24,13 +24,13 @@ email: jwpark@princeton.edu
 address:
   street: Peretsman Scully Hall
   city: Princeton 
-  region: NJ 08540
+  region: NJ
   postcode: '08540'
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.3434371'
-  longitude: '-74.6544676'
+  latitude: '40.34'
+  longitude: '-74.65'
 
 # Site header
 
