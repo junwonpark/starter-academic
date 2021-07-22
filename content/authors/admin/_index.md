@@ -24,7 +24,7 @@ social:
       header: false
     icon_pack: ai
     icon: cv
-    link: test
+    link: https://drive.google.com/open?id=1bArNYqBbLnvSkEC12eyQq2kzvub0ag8M
 organizations:
   - name: School of Public and International Affairs, Princeton University
     url: https://spia.princeton.edu/
