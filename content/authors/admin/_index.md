@@ -17,9 +17,14 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JWL_Park
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6tseLqsAAAAJ&hl=en
+  - display:
+      header: false
+    icon_pack: fas
+    icon: cv
+    link: test
 organizations:
   - name: School of Public and International Affairs, Princeton University
     url: https://spia.princeton.edu/
