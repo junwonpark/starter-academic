@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jwpark@princeton.edu
+    link: /#jwpark@princeton.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JWL_Park
