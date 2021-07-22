@@ -18,11 +18,11 @@ social:
     icon_pack: fab
     link: https://twitter.com/JWL_Park
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=6tseLqsAAAAJ&hl=en
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: ai
     icon: cv
     link: test
 organizations:
