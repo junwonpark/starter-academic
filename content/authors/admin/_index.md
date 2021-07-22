@@ -10,22 +10,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: jwpark@princeton.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JWL_Park
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=6tseLqsAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Public and International Affairs, Princeton University
+    url: https://spia.princeton.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
