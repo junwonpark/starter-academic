@@ -20,7 +20,7 @@ publication_short: PNAS
 url_source: ""
 url_video: ""
 title: Evidence for the reproduction of social class in brief speech
-doi: https://doi.org/10.1073/pnas.1900500116
+doi: 10.1073/pnas.1900500116
 featured: false
 tags: []
 projects:
