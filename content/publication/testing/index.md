@@ -2,7 +2,7 @@
 title: Testing
 publication_types:
   - "2"
-authors: []
+authors: ["Emmanuel Teitelbaum", "Aparna Ravi", "**Park J. W.**"]
 draft: false
 featured: false
 image:
