@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors: ["Kraus, M. W., & **Park, J. W**"]
 doi: 10.1016/j.copsyc.2017.07.029
-publication: Current Opinion in Psychology
+publication: _Current Opinion in Psychology_
 abstract: Individual agency accounts of social class persist in society and even
   in psychological science despite clear evidence for the role of social
   structures. This article argues that social class is defined by the structural
