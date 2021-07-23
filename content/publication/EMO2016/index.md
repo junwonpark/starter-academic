@@ -2,10 +2,7 @@
 title: Awe and scientific explanation
 publication_types:
   - "2"
-authors:
-  - Piercarlo Valdesolo
-  - Jun Park
-  - Sara Gottlieb
+authors: ["Valdesolo, P., **Park, J. W.**, & Gottlieb, S"]
 doi: 10.1037/emo0000213
 publication: Emotion
 abstract: "Past research has established a relationship between awe and
