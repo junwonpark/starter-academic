@@ -24,7 +24,7 @@ publication_types:
 authors:
   - Michael W. Kraus
   - Brittany Torrez
-  - Jun Won Park
+  - <strong>Jun Won Park</strong>
   - and Fariba Ghayebi
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
