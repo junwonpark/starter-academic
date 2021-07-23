@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors: ["Valdesolo, P., **Park, J. W.**, & Gottlieb, S"]
 doi: 10.1037/emo0000213
-publication: Emotion
+publication: _Emotion_
 abstract: "Past research has established a relationship between awe and
   explanatory frameworks, such as religion. We extend this work, showing (a) the
   effects of awe on a separate source of explanation: attitudes toward science,
