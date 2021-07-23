@@ -1,7 +1,8 @@
 ---
 title: Testing
 publication_types:
-  - "0"
+  - "2"
+authors: []
 draft: false
 featured: false
 image:
