@@ -22,7 +22,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors: 
-  - **Kraus, M. W.**
+  - **Kraus, M. W**
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
 summary: ""
