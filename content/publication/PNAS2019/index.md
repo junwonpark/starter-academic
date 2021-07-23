@@ -23,11 +23,10 @@ publication_types:
   - "2"
 authors: ["Kraus, M. W., Torrez, B., **Park, J. W.**, & Ghayebi, F"]
 author_notes: []
-publication: Proceedings of the National Academy of Sciences
+publication: __Proceedings of the National Academy of Sciences__
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: PNAS
 url_source: ""
 url_video: ""
 title: Evidence for the reproduction of social class in brief speech
