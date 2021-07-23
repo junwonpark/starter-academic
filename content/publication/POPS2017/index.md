@@ -4,7 +4,7 @@ title: Signs of social class: The experience of economic inequality in everyday 
 publication_types:
   - "2"
 authors: ["Kraus, M. W., **Park, J. W.**, Tan, J., J"]
-doi: 10.3389/fpsyg.2014.01404
+doi: 10.1177/1745691616673192
 publication: Perspectives on Psychological Science
 abstract: By some accounts, global economic inequality is at its highest point on record. 
   The pernicious effects of this broad societal trend are striking: Rising inequality 
