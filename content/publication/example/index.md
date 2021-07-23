@@ -21,7 +21,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: ["Kraus, M. W., Brittany, T., **Jun Won Park**, & Ghayebi, F."]
+authors: ["Kraus, M. W., Torrez, B., **Jun Won Park**, & Ghayebi, F."]
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
 summary: ""
