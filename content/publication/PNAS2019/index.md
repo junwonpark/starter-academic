@@ -23,7 +23,7 @@ publication_types:
   - "2"
 authors: ["Kraus, M. W., Torrez, B., **Park, J. W.**, & Ghayebi, F"]
 author_notes: []
-publication: __Proceedings of the National Academy of Sciences__
+publication: _Proceedings of the National Academy of Sciences_
 summary: ""
 url_dataset: ""
 url_project: ""
