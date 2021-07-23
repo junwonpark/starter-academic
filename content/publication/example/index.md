@@ -24,7 +24,7 @@ publication_types:
 authors:
   - Emmanuel Teitelbaum
   - Aparna Ravi
-  - "**Park J\\. W**"
+  - "**Park J. W**"
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
 summary: ""
