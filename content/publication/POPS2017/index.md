@@ -2,10 +2,7 @@
 title: "Signs of social class: The experience of economic inequality in everyday life"
 publication_types:
   - "2"
-authors:
-  - Michael W Kraus
-  - Jun Won Park
-  - Jacinth JX Tan
+authors: ["Kraus, M. W., **Park, J. W.**, & Tan, J. J"]
 doi: 10.1177/1745691616673192
 publication: Perspectives on Psychological Science
 abstract: "By some accounts, global economic inequality is at its highest point
