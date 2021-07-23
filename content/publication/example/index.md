@@ -21,7 +21,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: ["Michael W. Kraus, Brittany Torrez, Jun Won Park, and Fariba Ghayebi"
+authors: ["Michael W. Kraus, Brittany Torrez, Jun Won Park, and Fariba Ghayebi"]
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
 summary: ""
