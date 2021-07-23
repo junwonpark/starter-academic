@@ -10,17 +10,17 @@ authors:
   - Jun Won Park
   - and Fariba Ghayebi
 author_notes: []
-publication: Perspectives on Psychological Science
+publication: Proceedings of the National Academy of Sciences
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: PNAS
 url_source: ""
 url_video: ""
 title: Evidence for the reproduction of social class in brief speech
-doi: ""
+doi: https://doi.org/10.1073/pnas.1900500116
 featured: true
 tags: []
 projects:
