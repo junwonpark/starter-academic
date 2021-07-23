@@ -42,10 +42,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently a Postdoctoral Research Associate at Princeton's School of Public and International Affairs and Department of Psychology, having completed my PhD in Organizational Behavior at the Yale School of Management. While at Yale, I was a member of the [Contending with Societal Inequality Lab](https://www.csinequality.com/) under the mentorship of [Michael W. Kraus](http://www.michaelwkraus.com/) and [Cydney H. Dupree](https://cydneydupree.com/).
+I am currently a Postdoctoral Research Associate at Princeton's School of Public and International Affairs and Department of Psychology, having completed my PhD in Organizational Behavior at the Yale School of Management. While at Yale, I was a member of the [Contending with Societal Inequality Lab](https://www.csinequality.com/), under the mentorship of [Michael W. Kraus](http://www.michaelwkraus.com/) and [Cydney H. Dupree](https://cydneydupree.com/), and a Policy Fellow at the Institution for Social and Policy Studies.
 
-My research examines the individual and structural dynamics that undergird the relationship between social positions and social inequality in the context of economic, gender, and racial inequality. I examine how people challenge or reinforce societal inequities while occupying different social positions.
+I am interested in studying the individual and structural dynamics that undergird the relationship between social positions and social inequality. In particular, my research examines how people challenge or reinforce societal inequities while occupying disparate social positions in the context of economic, gender, and racial inequality.
 
-Supporting undocumented queer people of color.
-
-CUSPP (put the blog and recording)
+In addition to my research, I am also committed to advancing equitable access to higher education for members of marginalized groups, having served as a Diversity Fellow at Yale's Office for Graduate Student Development & Diversity. Being undocumented myself, I specialize in supporting undocumented students in higher education, which you can learn more about here.
