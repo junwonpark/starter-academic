@@ -21,9 +21,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors:
-  - M. W. Kraus
-  - Jun Won Park
+authors: ["Emmanuel Teitelbaum", "Aparna Ravi", "Park J. W."]
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
 summary: ""
