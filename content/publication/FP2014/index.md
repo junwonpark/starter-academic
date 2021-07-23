@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors: ["Kraus, M. W., & **Park, J. W**"]
 doi: 10.3389/fpsyg.2014.01404
-publication: Frontiers in Psychology
+publication: _Frontiers in Psychology_
 abstract: Social class ranks people on the social ladder of society, and in this
   research we examine how perceptions of economic standing shape the way that
   individuals evaluate the self. Given that reminders of one’s own subordinate
