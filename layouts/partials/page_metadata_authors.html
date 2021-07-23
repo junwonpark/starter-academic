@@ -12,7 +12,8 @@
       {{- if .RelPermalink -}}
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
-        {{ print {{.LinkTitle | markdownify}} "." }}
+        {{ $authnames := {{ .LinkTitle | markdownify}} }}
+        {{ print $authnames "." }}
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}
