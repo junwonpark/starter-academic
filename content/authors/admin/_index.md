@@ -1,5 +1,5 @@
 ---
-title: Jun Won Park
+title: Jun Won Park (they/them)
 role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
 bio: ""
@@ -46,4 +46,4 @@ I am currently a Postdoctoral Research Associate at Princeton's School of Public
 
 In my research, I am interested in studying the individual and structural dynamics that undergird the relationship between social positions and social inequality. In particular, I examine how people challenge or reinforce societal inequities while occupying disparate social positions in the context of economic, gender, and racial inequality.
 
-I am also committed to advancing equitable access to higher education for members of marginalized groups, having served as a Diversity Fellow at Yale's [Office for Graduate Student Development & Diversity](https://gsas.yale.edu/diversity/office-graduate-student-development-diversity-ogsdd). Being undocumented myself, I specialize in providing support for undocumented students in higher education, and you can learn more about this ongoing work here.
+I am also committed to advancing equitable access to higher education for members of marginalized groups, having served as a Diversity Fellow at Yale's [Office for Graduate Student Development & Diversity](https://gsas.yale.edu/diversity/office-graduate-student-development-diversity-ogsdd). Being undocumented myself, I specialize in providing support for undocumented students in higher education, and you can learn more about this ongoing work [here](http://members.spsp.org/news-center/announcements/connecting-undocumented-social-personality-psychologists).
