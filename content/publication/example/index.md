@@ -26,8 +26,8 @@ authors:
   - M. W.
   - Torrez
   - B.
-  - Park
-  - J. W.
+  - "*Park"
+  - J. W.*
   - "& Ghayebi"
   - F.
 author_notes: []
