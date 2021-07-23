@@ -1,7 +1,7 @@
 ---
 title: Awe and scientific explanation
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Piercarlo Valdesolo
   - Jun Park
