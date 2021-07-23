@@ -2,7 +2,7 @@
 title: The structural dynamics of social class
 publication_types:
   - "2"
-authors: ["Kraus, M. W., **Park, J. W**"]
+authors: ["Kraus, M. W., & **Park, J. W**"]
 doi: 10.1016/j.copsyc.2017.07.029
 publication: Current Opinion in Psychology
 abstract: Individual agency accounts of social class persist in society and even
