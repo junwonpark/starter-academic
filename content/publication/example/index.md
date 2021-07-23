@@ -21,7 +21,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: ["**Kraus, M. W`.`**"]
+authors: ["**Kraus, M. W**"]
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
 summary: ""
