@@ -24,7 +24,7 @@ publication_types:
 authors:
   - Michael W. Kraus
   - Brittany Torrez
-  - <strong>Jun Won Park</strong>
+  - Jun Won Park
   - and Fariba Ghayebi
 author_notes: []
 publication: Proceedings of the National Academy of Sciences
@@ -49,3 +49,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+**This is example of bolding**
