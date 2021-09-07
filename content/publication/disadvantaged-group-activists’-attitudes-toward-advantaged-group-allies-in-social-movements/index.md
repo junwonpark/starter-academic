@@ -1,12 +1,6 @@
 ---
-title: Disadvantaged group activists’ attitudes toward advantaged group allies
-  in social movements
 publication_types:
   - "2"
-authors:
-  - Park
-publication: Journal of Experimental Social Psychology
-publication_short: JESP
 abstract: Allyship is a growing phenomenon in many organizational contexts, and
   the involvement of advantaged group allies in identity-oriented social
   movements (e.g., men in the feminist movement) is ubiquitous. However, the
@@ -29,11 +23,26 @@ abstract: Allyship is a growing phenomenon in many organizational contexts, and
   specific ways of being an advantaged group ally that elicit the most positive
   impressions from their intended beneficiaries, which have direct implications
   for supporting intergroup coalitions and social change.
-draft: false
+authors: ["**Park, J. W.**, Vani, P., Saint-Hilaire, S., Kraus, M. W"]
+author_notes: []
+publication: _Journal of Experimental Social Psychology_
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+title: Disadvantaged group activists’ attitudes toward advantaged group allies
+  in social movements
 featured: false
+tags: []
+projects: []
 image:
-  filename: featured
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
-date: 2021-09-07T18:56:08.136Z
+date: 2021-8-12T16:44:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: ""
 ---
