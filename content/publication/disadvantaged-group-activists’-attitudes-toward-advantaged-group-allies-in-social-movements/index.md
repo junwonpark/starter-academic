@@ -1,6 +1,6 @@
 ---
-title: Disadvantaged Group Activists’ Attitudes toward Advantaged Group Allies
-  in Social Movements
+title: Disadvantaged group activists’ attitudes toward advantaged group allies
+  in social movements
 publication_types:
   - "2"
 authors:
