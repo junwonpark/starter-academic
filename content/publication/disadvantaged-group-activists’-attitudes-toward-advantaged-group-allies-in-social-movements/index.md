@@ -1,4 +1,6 @@
 ---
+title: Disadvantaged group activists’ attitudes toward advantaged group allies
+  in social movements
 publication_types:
   - "2"
 abstract: Allyship is a growing phenomenon in many organizational contexts, and
@@ -24,25 +26,12 @@ abstract: Allyship is a growing phenomenon in many organizational contexts, and
   impressions from their intended beneficiaries, which have direct implications
   for supporting intergroup coalitions and social change.
 authors: ["**Park, J. W.**, Vani, P., Saint-Hilaire, S., Kraus, M. W"]
-author_notes: []
 publication: _Journal of Experimental Social Psychology_
-summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-title: Disadvantaged group activists’ attitudes toward advantaged group allies
-  in social movements
+draft: false
 featured: false
-tags: []
-projects: []
 image:
-  caption: ""
-  focal_point: ""
+  filename: featured
+  focal_point: Smart
   preview_only: false
-date: 2021-8-12T16:44:00.000Z
-publishDate: 2021-12-01T00:00:00.000Z
-url_slides: ""
-url_poster: ""
-url_code: ""
+date: 2021-05-25T20:34:26.735Z
 ---
