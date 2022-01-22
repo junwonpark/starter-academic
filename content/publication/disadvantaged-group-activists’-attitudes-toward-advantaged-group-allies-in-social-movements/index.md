@@ -3,6 +3,7 @@ title: Disadvantaged group activists’ attitudes toward advantaged group allies
   in social movements
 publication_types:
   - "2"
+doi: https://doi.org/10.1016/j.jesp.2021.104226
 abstract: Allyship is a growing phenomenon in many organizational contexts, and
   the involvement of advantaged group allies in identity-oriented social
   movements (e.g., men in the feminist movement) is ubiquitous. However, the
