@@ -15,9 +15,9 @@ social:
     link: https://scholar.google.com/citations?user=6tseLqsAAAAJ&hl=en
   - display:
       header: false
-    icon_pack: ai
-    icon: cv
-    link: uploads/CV.pdf
+    link: https://www.linkedin.com/in/jun-won-park/
+    icon_pack: fab
+    icon: linkedin
 organizations: []
 education:
   courses:
