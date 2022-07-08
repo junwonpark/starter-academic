@@ -1,18 +1,12 @@
 ---
 title: Jun Won Park (they/them)
-role: Postdoctoral Research Associate
+role: Research Scientist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Social Class
-  - Inequality
-  - Collective Action
+  - Diversity Science
+  - Organizational Behavior
 social:
-  - display:
-      header: false
-    link: "mailto: jwpark@princeton.edu"
-    icon_pack: fas
-    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JWL_Park
@@ -24,9 +18,7 @@ social:
     icon_pack: ai
     icon: cv
     link: uploads/CV.pdf
-organizations:
-  - name: School of Public and International Affairs, Princeton University
-    url: https://spia.princeton.edu/
+organizations: []
 education:
   courses:
     - course: PhD in Organizational Behavior
@@ -42,8 +34,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently a Postdoctoral Research Associate at Princeton's School of Public and International Affairs and Department of Psychology, having completed my PhD in Organizational Behavior at the Yale School of Management. While at Yale, I was a member of the [Contending with Societal Inequality Lab](https://www.csinequality.com/), under the mentorship of [Michael W. Kraus](http://www.michaelwkraus.com/) and [Cydney H. Dupree](https://cydneydupree.com/), and a Policy Fellow at the [Institution for Social and Policy Studies](https://isps.yale.edu/).
-
-In my research, I am interested in studying the individual and structural dynamics that undergird the relationship between social positions and social inequality. In particular, I examine how people challenge or reinforce societal inequities while occupying disparate social positions in the context of economic, gender, and racial inequality.
-
-I am also committed to advancing equitable access to higher education for members of marginalized groups, having served as a Diversity Fellow at Yale's [Office for Graduate Student Development & Diversity](https://gsas.yale.edu/diversity/office-graduate-student-development-diversity-ogsdd). Being undocumented myself, I specialize in providing support for undocumented students in higher education, and you can learn more about this ongoing work [here](http://members.spsp.org/news-center/announcements/connecting-undocumented-social-personality-psychologists).
+I am currently a research scientist at Amazon in the People eXperience and Technology Central Science (PXTCS) Team focusing on diversity, equity, and inclusion research. Previously, I was a Postdoctoral Research Associate at Princeton's School of Public and International Affairs and Department of Psychology, having completed my PhD in Organizational Behavior at the Yale School of Management.
